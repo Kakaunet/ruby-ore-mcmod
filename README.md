@@ -3,8 +3,6 @@
 ![fabric](https://cdn.modrinth.com/data/cached_images/ab0db66b4451b7fe44f4a636fc995ce22b0d4f2d.png)
 ![forge](https://cdn.modrinth.com/data/cached_images/066db540608c0587a185c5658bd33a0fe6edc6c8.png)
 ![neoforge](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/cozy/supported/neoforge_vector.svg)
-  \
-![fabric-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)
 
 A mod that adds Ruby items.
 
